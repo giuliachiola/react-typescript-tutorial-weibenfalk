@@ -14,6 +14,7 @@ TypeScript basic tutorial
 
 | Purpose    | Technology    |
 | :--------- | :------------ |
+| Framework  | React         |
 | Scaffoling | Vite + ESLint |
 | Templating | TS            |
 
